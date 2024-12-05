@@ -1,2 +1,2 @@
 # oliadias
-Code of oliadias.com website
+Code of oliadias.com web application
